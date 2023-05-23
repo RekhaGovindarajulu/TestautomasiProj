@@ -11,6 +11,6 @@ import io.cucumber.testng.CucumberOptions;
 		
 		)
 
-public class Runner extends CutomizeTestNGCucmberRunner {
+public class TestRunner extends CutomizeTestNGCucmberRunner {
 
 }
